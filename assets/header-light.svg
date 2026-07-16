@@ -1,0 +1,82 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1200 260"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <!-- LIGHT THEME -->
+  <title>Zichen Wang scientific linework header</title>
+  <desc>
+    A minimal profile header with Zichen Wang's name and a molecular network
+    drawn in fine teal and gray lines.
+  </desc>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text
+      x="72"
+      y="126"
+      fill="#1f2937"
+      font-size="48"
+      font-weight="600"
+      letter-spacing="6"
+    >
+      ZICHEN WANG
+    </text>
+    <text
+      x="75"
+      y="166"
+      fill="#53606d"
+      font-size="15"
+      font-weight="500"
+      letter-spacing="3.2"
+    >
+      CHEMISTRY · AI · SCIENTIFIC COMPUTING
+    </text>
+  </g>
+
+  <path
+    d="M74 196 H1126"
+    fill="none"
+    stroke="#cbd5df"
+    stroke-width="1"
+  />
+  <path
+    d="M74 196 H282"
+    fill="none"
+    stroke="#0f766e"
+    stroke-width="2"
+  />
+
+  <g
+    fill="none"
+    stroke="#6b8790"
+    stroke-width="1.6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <path d="M842 81 L913 47 L982 82 L1048 55 L1111 96" />
+    <path d="M842 81 L864 153 L935 190 L1005 157 L1111 96" />
+    <path d="M913 47 L935 190" opacity="0.58" />
+    <path d="M982 82 L1005 157" opacity="0.58" />
+    <path d="M864 153 L982 82" opacity="0.58" />
+    <path d="M935 190 L1048 55" opacity="0.42" />
+  </g>
+
+  <g fill="#0f766e">
+    <circle cx="842" cy="81" r="5" />
+    <circle cx="913" cy="47" r="7" />
+    <circle cx="982" cy="82" r="5" />
+    <circle cx="1048" cy="55" r="7" />
+    <circle cx="1111" cy="96" r="5" />
+    <circle cx="864" cy="153" r="7" />
+    <circle cx="935" cy="190" r="5" />
+    <circle cx="1005" cy="157" r="7" />
+  </g>
+
+  <g fill="#f8fafc" stroke="#0f766e" stroke-width="2">
+    <circle cx="913" cy="47" r="3" />
+    <circle cx="1048" cy="55" r="3" />
+    <circle cx="864" cy="153" r="3" />
+    <circle cx="1005" cy="157" r="3" />
+  </g>
+</svg>
