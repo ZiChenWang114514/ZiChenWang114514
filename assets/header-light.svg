@@ -1,82 +1,34 @@
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 1200 260"
-  role="img"
-  aria-labelledby="title desc"
->
-  <!-- LIGHT THEME -->
-  <title>Zichen Wang scientific linework header</title>
-  <desc>
-    A minimal profile header with Zichen Wang's name and a molecular network
-    drawn in fine teal and gray lines.
-  </desc>
-
-  <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <text
-      x="72"
-      y="126"
-      fill="#1f2937"
-      font-size="48"
-      font-weight="600"
-      letter-spacing="6"
-    >
-      ZICHEN WANG
-    </text>
-    <text
-      x="75"
-      y="166"
-      fill="#53606d"
-      font-size="15"
-      font-weight="500"
-      letter-spacing="3.2"
-    >
-      CHEMISTRY · AI · SCIENTIFIC COMPUTING
-    </text>
-  </g>
-
-  <path
-    d="M74 196 H1126"
-    fill="none"
-    stroke="#cbd5df"
-    stroke-width="1"
-  />
-  <path
-    d="M74 196 H282"
-    fill="none"
-    stroke="#0f766e"
-    stroke-width="2"
-  />
-
-  <g
-    fill="none"
-    stroke="#6b8790"
-    stroke-width="1.6"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-  >
-    <path d="M842 81 L913 47 L982 82 L1048 55 L1111 96" />
-    <path d="M842 81 L864 153 L935 190 L1005 157 L1111 96" />
-    <path d="M913 47 L935 190" opacity="0.58" />
-    <path d="M982 82 L1005 157" opacity="0.58" />
-    <path d="M864 153 L982 82" opacity="0.58" />
-    <path d="M935 190 L1048 55" opacity="0.42" />
-  </g>
-
-  <g fill="#0f766e">
-    <circle cx="842" cy="81" r="5" />
-    <circle cx="913" cy="47" r="7" />
-    <circle cx="982" cy="82" r="5" />
-    <circle cx="1048" cy="55" r="7" />
-    <circle cx="1111" cy="96" r="5" />
-    <circle cx="864" cy="153" r="7" />
-    <circle cx="935" cy="190" r="5" />
-    <circle cx="1005" cy="157" r="7" />
-  </g>
-
-  <g fill="#f8fafc" stroke="#0f766e" stroke-width="2">
-    <circle cx="913" cy="47" r="3" />
-    <circle cx="1048" cy="55" r="3" />
-    <circle cx="864" cy="153" r="3" />
-    <circle cx="1005" cy="157" r="3" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Zichen Wang project systems</title>
+  <desc id="desc">A technical map connecting chemistry systems, coding-agent control, and research signals.</desc>
+  <rect width="1200" height="520" fill="#f7f8f6"/>
+  <g fill="none" stroke="#d4dcda" stroke-width="1"><path d="M48 78H1152M48 455H1152"/><path d="M478 48V455"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif" letter-spacing="0">
+    <text x="48" y="58" fill="#65747b" font-family="Consolas, monospace" font-size="18">RESEARCH SOFTWARE / AGENT SYSTEMS</text>
+    <text x="48" y="158" fill="#17242b" font-size="72" font-weight="700">ZICHEN</text>
+    <text x="48" y="232" fill="#17242b" font-size="72" font-weight="700">WANG</text>
+    <text x="48" y="286" fill="#3e5057" font-size="25">Chemistry-aware software.</text>
+    <text x="48" y="322" fill="#3e5057" font-size="25">Controlled agent workflows.</text>
+    <text x="48" y="358" fill="#3e5057" font-size="25">Source-aware research signals.</text>
+    <text x="48" y="430" fill="#65747b" font-family="Consolas, monospace" font-size="18">PEKING UNIVERSITY · BEIJING</text>
+    <g transform="translate(520 84)">
+      <g stroke="#007c83" stroke-width="3" fill="#f7f8f6"><path d="M12 26L38 10L64 26L64 56L38 72L12 56Z"/><circle cx="12" cy="26" r="5" fill="#007c83"/><circle cx="64" cy="56" r="5" fill="#007c83"/></g>
+      <text x="94" y="18" fill="#007c83" font-family="Consolas, monospace" font-size="18">01 / CHEMISTRY SYSTEMS</text>
+      <text x="94" y="55" fill="#17242b" font-size="28" font-weight="600">cdxml-toolkit-community</text>
+      <text x="94" y="89" fill="#3e5057" font-size="25">codex-chemdraw-skill</text>
+      <path d="M94 108H620" stroke="#c5d1cf" stroke-width="1"/>
+    </g>
+    <g transform="translate(520 222)">
+      <rect x="8" y="5" width="62" height="62" rx="6" fill="none" stroke="#3776ab" stroke-width="3"/><path d="M22 24L34 35L22 46M42 48H58" fill="none" stroke="#3776ab" stroke-width="3"/>
+      <text x="94" y="18" fill="#3776ab" font-family="Consolas, monospace" font-size="18">02 / CODING-AGENT CONTROL</text>
+      <text x="94" y="55" fill="#17242b" font-size="27" font-weight="600">Grok Build · OpenCode · Kimi Code</text>
+      <text x="94" y="88" fill="#3e5057" font-size="23">exact sessions / owned processes / real tests</text>
+      <path d="M94 108H620" stroke="#c5d1cf" stroke-width="1"/>
+    </g>
+    <g transform="translate(520 360)">
+      <g fill="none" stroke="#d94f70" stroke-width="3"><path d="M10 62H72M18 48L30 36L42 44L60 18"/><circle cx="18" cy="48" r="4" fill="#d94f70"/><circle cx="30" cy="36" r="4" fill="#d94f70"/><circle cx="42" cy="44" r="4" fill="#d94f70"/><circle cx="60" cy="18" r="4" fill="#d94f70"/></g>
+      <text x="94" y="18" fill="#d94f70" font-family="Consolas, monospace" font-size="18">03 / RESEARCH SIGNALS</text>
+      <text x="94" y="55" fill="#17242b" font-size="28" font-weight="600">AIxDaily</text><text x="252" y="55" fill="#3e5057" font-size="23">five curated AI × science channels</text>
+    </g>
   </g>
 </svg>
