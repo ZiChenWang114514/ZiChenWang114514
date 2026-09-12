@@ -1,9 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title">
   <title id="title">Welcome to Zichen Wang's GitHub</title>
-  <desc id="desc">A minimal welcome in pale text on a dark background.</desc>
-  <rect width="1200" height="320" fill="#0c1317"/>
-  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
-    <text x="600" y="125" fill="#b7c5c8" font-size="46">Welcome to</text>
-    <text x="600" y="211" fill="#eef5f4" font-size="68" font-weight="600">Zichen Wang's GitHub</text>
-  </g>
+  <rect width="1200" height="180" fill="#0c1317"/>
+  <text x="600" y="108" text-anchor="middle" fill="#eef5f4" font-family="Segoe UI, Arial, sans-serif" font-size="52">Welcome to Zichen Wang's GitHub</text>
 </svg>
