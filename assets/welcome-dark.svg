@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title">
+  <title id="title">Welcome to Zichen Wang's GitHub</title>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5eead4"/>
+      <stop offset="100%" stop-color="#7dd3fc"/>
+    </linearGradient>
+  </defs>
+  <text x="600" y="112" text-anchor="middle" fill="url(#grad)" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="600" letter-spacing="1">Welcome to Zichen Wang's GitHub</text>
+</svg>
